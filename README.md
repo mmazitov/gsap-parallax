@@ -1,4 +1,4 @@
-<h1 align="center">Markup Starter</h1>
+<h1 align="center">GSAP parallax</h1>
 
 ## 🎯 About
 
